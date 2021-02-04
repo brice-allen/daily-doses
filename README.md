@@ -18,7 +18,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-
+[![MIT License][license-shield]][license-url]
 
 
 <!-- PROJECT LOGO -->
@@ -122,4 +122,5 @@ Project Link: [https://github.com/brice-allen/daily-doses](https://github.com/br
 [forks-url]: https://github.com/brice-allen/daily-doses/network/members
 [stars-shield]: https://img.shields.io/github/stars/brice-allen?style=for-the-badge
 [stars-url]: https://github.com/brice-allen/daily-doses/stargazers
-
+[license-shield]: https://img.shields.io/github/license/brice-allen/daily-doses?style=for-the-badge
+[license-url]: https://github.com/brice-allen/daily-doses/blob/master/LICENSE.txt
