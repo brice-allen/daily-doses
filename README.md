@@ -89,7 +89,7 @@ See the [open issues](https://github.com/brice-allen/daily-doses/issues) for a l
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
@@ -104,7 +104,7 @@ Project Link: [https://github.com/brice-allen/daily-doses](https://github.com/br
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
