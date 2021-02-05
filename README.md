@@ -66,7 +66,6 @@ The Daily Doses team proposes an IOS app to assist with daily medication reminde
 * [Swift](https://swift.org/)
 * [CocoaPods](https://cocoapods.org/)
 * [CoreData](https://developer.apple.com/documentation/coredata)
-* [Node.js](https://nodejs.org/en/)
 
 
 <!-- USAGE EXAMPLES -->
