@@ -21,7 +21,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
-![Daily Doses](https://github.com/brice-allen/daily-doses/blob/main/media/dailyDoses.gif)
+![Daily Doses](https://github.com/brice-allen/daily-doses/blob/main/media/motion/dailyDoses.gif)
 
 
 <!-- PROJECT LOGO -->
