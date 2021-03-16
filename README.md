@@ -7,7 +7,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-![Daily Doses](https://imgur.com/a/oqS9aLW)
 
 
 <!-- PROJECT SHIELDS -->
@@ -22,14 +21,11 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
+![Daily Doses](https://github.com/brice-allen/daily-doses/blob/main/media/dailyDoses.gif)
 
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/brice-allen/daily-doses">
-    <img src="images/DD-logo-black-yellow.png" alt="Logo" width="600" height="600">
-  </a>
   <p align="center">
     CSCI-3508 Semester Project
     <br />
