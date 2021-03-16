@@ -22,7 +22,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 
-![](media/dailyDoses.mp4)
+[![](media/dailyDoses.mp4)]
 
 <!-- PROJECT LOGO -->
 <br />
