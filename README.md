@@ -7,6 +7,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
+![Daily Doses](https://imgur.com/a/oqS9aLW)
 
 
 <!-- PROJECT SHIELDS -->
@@ -22,7 +23,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 
-[![](media/dailyDoses.mp4)]
 
 <!-- PROJECT LOGO -->
 <br />
