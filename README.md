@@ -23,12 +23,13 @@
 [![MIT License][license-shield]][license-url]
 
 
-<video width="320" height="240" controls>
-  <source src="media/dailyDoses.mp4" type="video/mp4">
-</video>
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+  <video width="320" height="240" controls>
+  <source src="media/dailyDoses.mp4" type="video/mp4">
+</video>
   <a href="https://github.com/brice-allen/daily-doses">
     <img src="images/DD-logo-black-yellow.png" alt="Logo" width="600" height="600">
   </a>
