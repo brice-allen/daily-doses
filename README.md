@@ -61,11 +61,16 @@
 ## About The Project
 
 The Daily Doses team proposes an IOS app to assist with daily medication reminders and how to take the medication. Input will be performed manually and is stored locally on the user's device in a serialized Core Data object. There is no direct competition for the app on the IOS marketplace allowing the Daily Doses team to corner the market. We believe the app will benefit elderly patients and their families by using smart notifications and missed dose tracking. The app's features ensure a high level of medication compliance. The project is 13-months long, with 12-months of iterative development with quarterly reviews and a 1-month deployment and acceptance testing period.
-### Built With
+### Tools Used
 
 * [Swift](https://swift.org/)
 * [CocoaPods](https://cocoapods.org/)
 * [CoreData](https://developer.apple.com/documentation/coredata)
+* [Adobe XD](https://www.adobe.com/products/xd.html)
+* [Overleaf](https://www.overleaf.com)
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
+
 
 
 <!-- USAGE EXAMPLES -->
@@ -107,6 +112,7 @@ Project Link: [https://github.com/brice-allen/daily-doses](https://github.com/br
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
+* [Dave Ogle](https://github.com/daveogle1818)
 
 
 
