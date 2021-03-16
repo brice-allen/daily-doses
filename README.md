@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/brice-allen/daily-doses">
+  <a href="https://github.com/brice-allen/Daily Doses.mp4">
     <img src="images/logo-white.png" alt="Logo" width="600" height="600">
   </a>
   <p align="center">
