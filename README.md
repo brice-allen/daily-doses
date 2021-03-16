@@ -27,7 +27,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/brice-allen/daily-doses">
-    <img src="images/dailydoses(3).png" alt="Logo" width="600" height="600">
+    <img src="images/DD-logo-black-yellow.png" alt="Logo" width="600" height="600">
   </a>
   <p align="center">
     CSCI-3508 Semester Project
