@@ -23,6 +23,9 @@
 [![MIT License][license-shield]][license-url]
 
 
+<video width="320" height="240" controls>
+  <source src="media/dailyDoses.mp4" type="video/mp4">
+</video>
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
