@@ -101,7 +101,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Brice Allen - brice.allen@ucdenver.edu
 
-Project Link: [https://github.com/brice-allen/daily-doses](https://github.com/brice-allen/daily-doses)
+Project Link: [www.dailydoses.dev](https://https://www.dailydoses.dev/)
 
 
 
