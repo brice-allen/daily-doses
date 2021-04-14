@@ -85,8 +85,11 @@ See the [open issues](https://github.com/brice-allen/daily-doses/issues) for a l
 <!-- CONTRIBUTING -->
 ## Contributing
 
-@todo
-
+Brice Allen
+Esther Palacios Herzog
+Jacqueline Tran
+Ivy Truong
+Biniyam Yohannes
 
 
 <!-- LICENSE -->
