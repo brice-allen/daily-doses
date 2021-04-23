@@ -7,7 +7,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <meta name="description" content="Bootstrap 4 Template For Software Startups">
+    <meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
     <link rel="shortcut icon" href="favicon.ico"> 
     
     <!-- Google Font -->
@@ -15,10 +16,13 @@
     
     <!-- FontAwesome JS-->
     <script defer src="assets/fontawesome/js/all.min.js"></script>
+    
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.2/styles/atom-one-dark.min.css">
 
     <!-- Theme CSS -->  
     <link id="theme-style" rel="stylesheet" href="assets/css/theme.css">
-
+    <link href="css/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
 </head> 
 
 <body>    
@@ -26,7 +30,7 @@
         <div class="branding">
             <div class="container-fluid position-relative">
 				<nav class="navbar navbar-expand-lg" >
-                    <div class="site-logo"><a class="navbar-brand" href="index.html"><img src="favicon.png" alt="logo" width="20" height="20" class="logo-icon mr-2"><span class="logo-text">Daily<span class="text-alt">Doses</span></span></a></div>    
+                    <div class="site-logo"><a class="navbar-brand" href="index.html"><img class="logo-icon mr-2" src="assets/images/site-logo.svg" alt="logo"><span class="logo-text">Daily<span class="text-alt">Doses</span></span></a></div>    
 
 					<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
 	                    <span> </span>
@@ -40,11 +44,11 @@
 				            <li class="list-inline-item"><a href="https://twitter.com/dailydosesapp"><i class="fab fa-twitter fa-fw"></i></a></li>
 			            </ul><!--//social-list-->
 						<ul class="navbar-nav ml-lg-auto">
-						
 							
-							<li class="nav-item mr-lg-4 active">
-							    <a class="nav-link" href="contact.html">Contact</a>
-							</li>
+							
+<li class="nav-item mr-lg-4">
+			    <a class="nav-link" href="contact.html">Contact</a>
+			  </li>
 							<li class="nav-item mr-lg-4">
 							   <a class="nav-link" href="login.html">Login</a>
 							</li>
@@ -64,95 +68,85 @@
 	    <div class="theme-bg-shapes-right"></div>
 	    <div class="theme-bg-shapes-left"></div>
 	    <div class="container">
-		    <h1 class="page-heading single-col-max mx-auto">Contact Us</h1>
-		    <div class="page-intro single-col-max mx-auto">Get in touch if you have any questions</div>
-		    
+		    <h1 class="page-heading single-col-max mx-auto">Welcome Wheeler Medical Staff</h1>
+		    <div class="page-intro single-col-max mx-auto">Have a great day! </div>
 	    </div>
     </div><!--//page-header-->
     
-	<div class="page-content py-5">
-		<section class="options-section">
-			<div class="container">
-				<div class="row">
-				    <div class="col-12 col-lg-6 mb-5">
-						<div class="media shadow-sm p-4 rounded h-100">
-							<!---
-								/* Uncomment if you want to use a FontAwesome icon instead of an image */
-								<div class="theme-icon-holder mr-4"><i class="far fa-life-ring"></i></div> 
-							-->
-							<img class="mr-3" src="assets/images/streamline-free/customer-service-man.svg" alt="">
-						    <div class="media-body">
-							    <h5 class="mt-0"><a href="https://github.com/brice-allen/daily-doses/issues">Feature Request<i class="fas fa-long-arrow-alt-right ml-2"></i></a></h5>
-							   Have a great idea for a feature! Request it on  <a class="theme-link" href="https://github.com/brice-allen/daily-doses/issues" target="_blank">github!</a>.
-							</div><!--//media-body-->
-						</div><!--//media-->
-					</div><!--//col-->
-					<div class="col-12 col-lg-6 mb-5">
-						<div class="media shadow-sm p-4 rounded h-100">
-							
-							<!---
-								/* Uncomment if you want to use a FontAwesome icon instead of an image */
-								<div class="theme-icon-holder mr-4"><i class="fas fa-code"></i></div>
-							-->
-							<img class="mr-3" src="assets/images/streamline-free/write-paper-ink.svg" alt="">
-						    <div class="media-body">
-							    <h5 class="mt-0"><a href="docs.html">Documentation<i class="fas fa-long-arrow-alt-right ml-2"></i></a></h5>
-							    Have technical questions? Checkout our documentation on  <a class="theme-link" href="https://github.com/brice-allen/daily-doses/tree/main/media/documents" target="_blank">github</a>.
-							</a>
-							</div><!--//media-body-->
-						</div><!--//media-->
-					</div><!--//col-->
-				</div><!--//row-->
-			</div><!--//container-->
-		</section><!--//options-section-->
-		<section class="contact-form-section mb-5">
-			<div class="container">
-			    <form id="contact-form" class="contact-form p-5 col-lg-9 mx-lg-auto theme-bg-light shadow">
-			        <h3 class="text-center">Ask A Question</h3>
-			        <div class="mb-3 text-center">For general questions, please use the form below.</div>
-			        <div class="form-row">                                                           
-		                <div class="form-group col-md-6">
-		                    <label class="sr-only" for="cname">Name</label>
-		                    <input type="text" class="form-control" id="cname" name="name" placeholder="Name" minlength="2" required="" >
-		                </div>                    
-		                <div class="form-group col-md-6">
-		                    <label class="sr-only" for="cemail">Email</label>
-		                    <input type="email" class="form-control" id="cemail" name="email" placeholder="Email" required="" >
-		                </div>
-		                
-		                <div class="form-group col-12">
-		                    <label class="sr-only" for="cmessage">Your message</label>
-		                    <textarea class="form-control" id="cmessage" name="message" placeholder="Enter your message" rows="10" required=""></textarea>
-		                </div>
-		                 <div class="form-group col-12">
-		                    <button type="submit" class="btn btn-block btn-primary py-2">Submit</button>
-		                </div>                           
-		            </div><!--//form-row-->
-		        </form>
-		    </div><!--//container-->
-		</section><!--//contact-form-section-->
-		
-	</div><!--//page-content-->   
+	
+		<div class="container">
+			<div class="features-tab-content tab-content" id="features-tab-content">
+			  <label for="search">Search:</label>
+              <input type="search" name="search" id="search">
+              <div class="feature-1-pane tab-pane fade show active py-5" id="feature-1" role="tabpanel" aria-labelledby="feature-tab-1">
+					
+				<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">DOB</th>
+    </tr>
+  </thead>
+  <tbody>
+	      <tr>
+      <th scope="row">1</th>
+      <td>Robert</td>
+      <td>Barker</td>
+      <td>1920/01/17</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Brice</td>
+      <td>Allen</td>
+      <td>1933/09/07</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Esther</td>
+      <td>Palacios Herzog</td>
+      <td>1941/01/11</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Jacqueline</td>
+		<td>Tran</td>
+      <td>1901/12/12</td>
+    </tr>
+	  <tr>
+      <th scope="row">5</th>
+      <td>Ivy </td>
+		<td>Truong</td>
+      <td>1921/11/21</td>
+    </tr>
+	  <tr>
+      <th scope="row">6</th>
+      <td>Biniyam </td>
+		<td>Yohannes</td>
+      <td>1911/04/02</td>
+    </tr>
+  </tbody>
+</table>
+				  <div class="container-fluid"></div>
+                <button type="button" style = "float: right" class="btn btn-primary">New Patient&nbsp;</button>
+			</div>
+            
+          </div><!--//container-->
+    </div><!--//page-content-->
     
-    <section class="cta-section text-center py-5 theme-bg-dark position-relative">
-	    <div class="theme-bg-shapes-right"></div>
-	    <div class="theme-bg-shapes-left"></div>
-	    <div class="container">
-		    <h3 class="mb-2 text-white mb-3">Get Started in No Time</h3>
-		    <div class="section-intro text-white mb-3 single-col-max mx-auto">Daily Doses makes it super easy to get setup, so you can stay medicated.</div>
-		    <div class="pt-3 text-center">
-			    <a class="btn btn-light" href="#">Get Started<i class="fas fa-arrow-alt-circle-right ml-2"></i></a>
-		    </div>
-	    </div>
-    </section><!--//cta-section-->
+    
 
-    <footer class="footer">
+
+               
+    
+<footer class="footer">
 	    <div class="container py-5 mb-3">
 		    <div class="row">
 			    <div class="footer-col col-6 col-lg-3">
 				    <h4 class="col-heading">Products</h4>
 				    <ul class="list-unstyled">
-						<li><a href="#">IOS Applicatioin</a></li>
+					    <li><a href="#">IOS Applicatioin</a></li>
 					    <li><a href="#">Web Interface</a></li>
 					    <li><a href="#">Live Demo</a></li>
 					    <li><a href="#">Showcase</a></li>
@@ -178,7 +172,7 @@
 				    </ul>
 			    </div><!--//footer-col-->
 			    <div class="footer-col col-6 col-lg-3">
-				    <h4 class="col-heading">CoderPro</h4>
+				    <h4 class="col-heading">Daily Doses</h4>
 				    <ul class="list-unstyled">
 					    <li><a href="#">About Us</a></li>
 					    <li><a href="#">Contact Us</a></li>
@@ -216,13 +210,13 @@
        
     <!-- Javascript -->          
     <script src="assets/plugins/jquery-3.4.1.min.js"></script>
-    <script src="assets/plugins/popper.min.js"></script>
-    <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script> 
+<script src="assets/plugins/popper.min.js"></script>
+<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>  
+    
     
     <!-- Page Specific JS -->
-    <script src="assets/plugins/jquery-validation/jquery.validate.min.js"></script>  
-    <script src="assets/js/form.js"></script>
-    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.8/highlight.min.js"></script>
+<script src="assets/js/highlight-custom.js"></script>
 
 </body>
 </html> 
