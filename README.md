@@ -23,7 +23,7 @@
 [![MIT License][license-shield]][license-url]
 ![Daily Doses](https://github.com/brice-allen/daily-doses/blob/main/media/motion/dailyDoses.gif)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zsUpvpZpaVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!-- PROJECT LOGO -->
 <br />
   <p align="center">
@@ -32,7 +32,6 @@
     <a href="https://github.com/brice-allen/daily-doses/issues">Request Feature</a>  
   </p>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
