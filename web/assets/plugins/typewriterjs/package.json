@@ -31,7 +31,7 @@
     "babel-loader": "^8.0.0-beta",
     "css-loader": "^1.0.0",
     "cssnano": "^4.1.0",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^3.0.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.22.1",
